@@ -53,11 +53,15 @@ img {
 
 p {
   font-size: 1em;
+  font-family: 'Helvetica', 'Arial';
+  font-weight: bold;
 }
 
 a {
   color: black;
   text-decoration: none;
+  font-family: 'Helvetica', 'Arial';
+  font-weight: bold;
 }
 
 a:hover {
